@@ -8,7 +8,7 @@ export const StatisticsList = styled.ul`
   li {
     display: flex;
     align-items: center;
-    margin-bottom: 12px;
+    margin-bottom: 16px;
     font-size: 20px;
     font-weight: 600;
   }
